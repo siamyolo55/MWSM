@@ -1,0 +1,94 @@
+body{
+	background-color: #c2bcff;
+}
+form{
+	width: 40%;
+	border : 8px solid #f1f1f1;
+	border-color: darkblue;
+}
+
+input[type=text],
+input[type=password]{
+	width:90%;
+	padding: 12px 20px;
+	margin-left: 8px;
+	margin-right: 8px;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+}
+
+h1.hed{
+	margin-top: 50px;
+	color:darkblue;
+	font-family: sans-serif;
+}
+
+button{
+	background-color: black;
+	color: white;
+	padding: 14 px 20px;
+	margin : 8px 0;
+	cursor : pointer;
+	width : 50%;
+}
+
+.container{
+	align-content: center;
+	font-family: sans-serif;
+}
+
+.show{
+	width: 40%;
+	border : 8px solid #f1f1f1;
+	border-color: darkblue;
+	font-family: sans-serif;
+}
+
+b.eh{
+	font-size: 20px;
+}
+b.but{
+	font-size: 15px;
+}
+
+#sub{
+	background-color: black;
+	color: white;
+	padding: 14 px 20px;
+	margin : 8px 0;
+	cursor : pointer;
+	width : 50%;
+	font-size: 15px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: darkblue;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+#ml{
+	position:absolute;
+  	right: 10px;
+}
+
